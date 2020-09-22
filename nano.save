@@ -1,0 +1,12 @@
+commit 5482c72e5a1a60f9a11a25f343e8d0f139bf39fd Author: caevh <Harrycave1234@outlook.com> Date: Tue Sep 22 10:58:25 2020 +0100 Add an h1 tag diff --git a/index.html b/index.html index 
+3b18e51..b448801 100644 --- a/index.html +++ b/index.html @@ -1 +1 @@ -hello world +<h1>hello world</h1> commit c9b7e5e5c5440a6015bec4896dfc5e5b9dcd2d77 Author: caevh <Harrycave1234@outlook.com> 
+Date: Tue Sep 22 08:52:58 2020 +0100
+    Add baz diff --git a/baz b/baz new file mode 100644 index 0000000..e69de29 commit 712bf701d993e96a863d00cdbb762b7d77878211 Author: caevh <Harrycave1234@outlook.com> Date: Tue Sep 22 08:48:41 
+2020 +0100
+    Add content to index.html diff --git a/index.html b/index.html index e69de29..3b18e51 100644 --- a/index.html +++ b/index.html @@ -0,0 +1 @@ +hello world commit 
+2c2c492451e5f2fea4a3debe2bdb40ae48adbdf2 Author: caevh <Harrycave1234@outlook.com> Date: Tue Sep 22 08:46:33 2020 +0100
+    Add bar diff --git a/bar b/bar new file mode 100644 index 0000000..e69de29 commit 03c51e269ad76e4e132b0c46261877db4c8e09f1 Author: caevh <Harrycave1234@outlook.com> Date: Tue Sep 22 08:43:58 
+2020 +0100
+    Adding empty file to repository diff --git a/foo b/foo new file mode 100644 index 0000000..e69de29 commit 3a324314854d8f0a8aca6de8ae5330da245c4e6f Author: caevh <Harrycave1234@outlook.com> 
+Date: Tue Sep 22 08:41:00 2020 +0100
+    Initialize repository diff --git a/index.html b/index.html new file mode 100644 index 0000000..e69de29
